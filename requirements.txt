@@ -1,0 +1,6 @@
+typer==0.16.0
+pyiceberg[s3fs,pyarrow]==0.9.1
+numpy>=2.2.6
+pandas>=2.2.3
+pyarrow>=17.0.0,<20.0.0
+requests>=2.32.3
